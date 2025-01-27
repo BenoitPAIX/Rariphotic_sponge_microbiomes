@@ -1,0 +1,59 @@
+#NAME;ename;Sample_names;Depth_m;Photic_zone;Class_host;Genus_host;Species_host
+CAO_405;e1100027481;Ls.1;282;3.Lower rariphotic;Hexactinellida;Dictyoplax;Dictyoplax lecus
+CAO_406;e1100027493;Hx.1;301;3.Lower rariphotic;Hexactinellida;Dictyoplax;Dictyoplax lecus
+CAO_408;e1100027505;Ls.2;301;3.Lower rariphotic;Hexactinellida;Dictyoplax;Dictyoplax lecus
+CAO_410;e1100027517;Ms.1;302;3.Lower rariphotic;Hexactinellida;Verrucocoeloidea;Verrucocoeloidea liberatorii
+CAO_411;e1100027529;Ht.1;288;3.Lower rariphotic;Hexactinellida;Heterotella;Heterotella pomponae
+CAO_412;e1100027541;Ht.2;288;3.Lower rariphotic;Hexactinellida;Heterotella;Heterotella pomponae
+CAO_413;e1100027458;Ls.3;301;3.Lower rariphotic;Hexactinellida;Dictyoplax;Dictyoplax lecus
+CAO_414;e1100027470;Cp.1;298;3.Lower rariphotic;Hexactinellida;Conorete;Conorete pourtalesi
+CAO_415;e1100027482;Cl.1;300;3.Lower rariphotic;Demospongiae;Calthropella;Calthropella lithistina
+CAO_418;e1100027494;To.1;295;3.Lower rariphotic;Demospongiae;Topsentia;Topsentia ophiraphidite
+CAO_419;e1100027506;Sz.1;95;1.Mesophotic;Demospongiae;Svenzea;Svenzea zeai
+CAO_421;e1100027530;Ps1.1;89;1.Mesophotic;Demospongiae;Petrosia;Petrosia sp. 1
+CAO_422;e1100027542;Ps2.1;129;2.Upper rariphotic;Demospongiae;Petrosia;Petrosia sp. 2
+CAO_423;e1100027459;Ne.2;107;1.Mesophotic;Demospongiae;Neopetrosia;Neopetrosia eurystomata
+CAO_424;e1100027471;Pw.1;106;1.Mesophotic;Demospongiae;Petrosia;Petrosia aff. weinbergi
+CAO_425;e1100027483;Sz.2;100;1.Mesophotic;Demospongiae;Svenzea;Svenzea zeai
+CAO_426;e1100027495;Ne.3;105;1.Mesophotic;Demospongiae;Neopetrosia;Neopetrosia eurystomata
+CAO_427;e1100027507;B.m.1;258;3.Lower rariphotic;Demospongiae;Biemna;Biemna microacanthosigma
+CAO_428;e1100027519;Ne.4;105;1.Mesophotic;Demospongiae;Neopetrosia;Neopetrosia eurystomata
+CAO_429;e1100027531;Sz.3;95;1.Mesophotic;Demospongiae;Svenzea;Svenzea zeai
+CAO_430;e1100027543;Ck.1;100;1.Mesophotic;Demospongiae;Cinachyrella;Cinachyrella kuekenthali
+CAO_431;e1100027460;Cl.2;267;3.Lower rariphotic;Demospongiae;Calthropella;Calthropella lithistina
+CAO_432;e1100027472;Pm.1;262;3.Lower rariphotic;Demospongiae;Penares;Penares mastoideus
+CAO_433;e1100027484;Gi.1;151;2.Upper rariphotic;Demospongiae;Gastrophanella;Gastrophanella implexa
+CAO_434;e1100027496;Ah.1;129;2.Upper rariphotic;Demospongiae;Aciculites;Aciculites higginsii
+CAO_435;e1100027508;Ah.2;127;2.Upper rariphotic;Demospongiae;Aciculites;Aciculites higginsii
+CAO_436;e1100027520;Ah.3;127;2.Upper rariphotic;Demospongiae;Aciculites;Aciculites higginsii
+CAO_437;e1100027532;Gc.1;105;1.Mesophotic;Demospongiae;Geodia;Geodia aff. curacaocensis
+CAO_438;e1100027544;Gs1.1;121;1.Mesophotic;Demospongiae;Geodia;Geodia sp. 1
+CAO_441;e1100027473;Gm.1;266;3.Lower rariphotic;Demospongiae;Geodia;Geodia cf. megastrella
+CAO_442;e1100027485;Dp.1;268;3.Lower rariphotic;Hexactinellida;Dactylocalyx;Dactylocalyx pumiceus
+CAO_443;e1100027497;Dp.2;262;3.Lower rariphotic;Hexactinellida;Dactylocalyx;Dactylocalyx pumiceus
+CAO_444;e1100027509;Dp.3;174;2.Upper rariphotic;Hexactinellida;Dactylocalyx;Dactylocalyx pumiceus
+CAO_445;e1100027521;Dp.4;174;2.Upper rariphotic;Hexactinellida;Dactylocalyx;Dactylocalyx pumiceus
+CAO_447;e1100027533;Vl.1;268;3.Lower rariphotic;Hexactinellida;Conorete;Verrucocoeloidea liberatorii
+CAO_448;e1100027545;Vl.2;268;3.Lower rariphotic;Hexactinellida;Verrucocoeloidea;Verrucocoeloidea liberatorii
+CAO_449;e1100027462;Vl.3;268;3.Lower rariphotic;Hexactinellida;Verrucocoeloidea;Verrucocoeloidea liberatorii
+CAO_450;e1100027474;Vl.4;268;3.Lower rariphotic;Hexactinellida;Verrucocoeloidea;Verrucocoeloidea liberatorii
+CAO_451;e1100027486;Vl.5;268;3.Lower rariphotic;Hexactinellida;Verrucocoeloidea;Verrucocoeloidea liberatorii
+CAO_452;e1100027498;Cp.2;262;3.Lower rariphotic;Hexactinellida;Conorete;Conorete pourtalesi
+CAO_454;e1100027510;Cp.3;268;3.Lower rariphotic;Hexactinellida;Conorete;Conorete pourtalesi
+CAO_455;e1100027522;Cp.4;262;3.Lower rariphotic;Hexactinellida;Conorete;Conorete pourtalesi
+CAO_580;e1100027463;Hx.2;238;3.Lower rariphotic;Hexactinellida;Dictyoplax;Dictyoplax lecus
+CAO_581;e1100027475;Vl.6;176;2.Upper rariphotic;Hexactinellida;Verrucocoeloidea;Verrucocoeloidea liberatorii
+CAO_582;e1100027487;Vl.7;176;2.Upper rariphotic;Hexactinellida;Verrucocoeloidea;Verrucocoeloidea liberatorii
+CAO_583;e1100027499;Vl.8;176;2.Upper rariphotic;Hexactinellida;Verrucocoeloidea;Verrucocoeloidea liberatorii
+CAO_584;e1100027511;Dp.5;145;2.Upper rariphotic;Hexactinellida;Dactylocalyx;Dactylocalyx pumiceus
+CAO_585;e1100027523;Dp.6;145;2.Upper rariphotic;Hexactinellida;Dactylocalyx;Dactylocalyx pumiceus
+CAO_586;e1100027535;Dp.7;145;2.Upper rariphotic;Hexactinellida;Dactylocalyx;Dactylocalyx pumiceus
+CAO_587;e1100027547;Dp.8;132;2.Upper rariphotic;Hexactinellida;Dactylocalyx;Dactylocalyx pumiceus
+CAO_588;e1100027464;Dp.9;144;2.Upper rariphotic;Hexactinellida;Dactylocalyx;Dactylocalyx pumiceus
+CAO_590;e1100027476;Cp.5;238;3.Lower rariphotic;Hexactinellida;Conorete;Conorete pourtalesi
+CAO_591;e1100027488;Cp.6;238;3.Lower rariphotic;Hexactinellida;Conorete;Conorete pourtalesi
+CAO_592;e1100027500;Cp.7;238;3.Lower rariphotic;Hexactinellida;Conorete;Conorete pourtalesi
+CAO_593;e1100027512;Ls.4;194;2.Upper rariphotic;Hexactinellida;Verrucocoeloidea;Verrucocoeloidea liberatorii
+CAO_594;e1100027524;Hx.3;238;3.Lower rariphotic;Hexactinellida;Dictyoplax;Dictyoplax lecus
+SUB_108;e1100027534;Cp.8;267;3.Lower rariphotic;Hexactinellida;Conorete;Conorete pourtalesi
+SUB_111;e1100027546;Ht.3;305;3.Lower rariphotic;Hexactinellida;Heterotella;Heterotella pomponae
