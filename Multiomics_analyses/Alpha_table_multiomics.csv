@@ -1,0 +1,57 @@
+;Sample_name;Values_Shannon_LCMS;Shannon_dataset;Photic_zone;Class_host;shannon_ASV
+1;SUB_108;3.283018795;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;0.861058033
+2;SUB_111;3.093751327;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;4.063477808
+3;CAO_405;3.552339269;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;3.133997009
+4;CAO_406;3.295580686;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.379171756
+5;CAO_408;3.482144572;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;4.408198739
+6;CAO_410;3.424070166;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;2.306225025
+7;CAO_411;3.409916996;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;2.538221835
+8;CAO_412;3.289836323;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;2.648038366
+9;CAO_413;3.40610827;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;5.879706612
+10;CAO_414;3.222813803;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.657337482
+11;CAO_415;3.160233687;Shannon_LCMS;3.Lower rariphotic;Demospongiae;4.259304149
+12;CAO_418;3.395834302;Shannon_LCMS;3.Lower rariphotic;Demospongiae;4.329745411
+13;CAO_419;3.616054454;Shannon_LCMS;1.Mesophotic;Demospongiae;4.249248086
+14;CAO_421;3.584059581;Shannon_LCMS;1.Mesophotic;Demospongiae;4.095863692
+15;CAO_422;3.571076116;Shannon_LCMS;2.Upper rariphotic;Demospongiae;4.270177349
+16;CAO_423;3.367143178;Shannon_LCMS;1.Mesophotic;Demospongiae;4.90336629
+18;CAO_425;3.554431376;Shannon_LCMS;1.Mesophotic;Demospongiae;4.018155173
+19;CAO_426;3.463819587;Shannon_LCMS;1.Mesophotic;Demospongiae;4.97503207
+20;CAO_427;3.490390173;Shannon_LCMS;3.Lower rariphotic;Demospongiae;4.358363923
+21;CAO_428;3.287931097;Shannon_LCMS;1.Mesophotic;Demospongiae;4.837797126
+22;CAO_429;3.798619032;Shannon_LCMS;1.Mesophotic;Demospongiae;4.158910009
+23;CAO_430;3.588924274;Shannon_LCMS;1.Mesophotic;Demospongiae;3.864026264
+24;CAO_431;3.11787879;Shannon_LCMS;3.Lower rariphotic;Demospongiae;4.114824062
+25;CAO_432;3.395682999;Shannon_LCMS;3.Lower rariphotic;Demospongiae;4.604284892
+26;CAO_433;3.426390423;Shannon_LCMS;2.Upper rariphotic;Demospongiae;5.097611416
+27;CAO_434;3.598111472;Shannon_LCMS;2.Upper rariphotic;Demospongiae;5.164756575
+28;CAO_435;3.432897422;Shannon_LCMS;2.Upper rariphotic;Demospongiae;5.02811571
+29;CAO_436;3.413045005;Shannon_LCMS;2.Upper rariphotic;Demospongiae;4.760915718
+30;CAO_437;3.60529959;Shannon_LCMS;1.Mesophotic;Demospongiae;5.098057484
+31;CAO_438;3.370789333;Shannon_LCMS;1.Mesophotic;Demospongiae;5.095058264
+32;CAO_441;3.652483752;Shannon_LCMS;3.Lower rariphotic;Demospongiae;5.079763982
+33;CAO_442;3.391351495;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.907459811
+34;CAO_443;3.583413295;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;2.63161549
+35;CAO_444;3.425165462;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;2.019060991
+36;CAO_445;3.287019978;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;2.604237806
+37;CAO_447;3.42934692;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.306559
+38;CAO_448;3.3165205;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.500816246
+39;CAO_449;3.604650002;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.284143431
+41;CAO_451;3.090336755;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.395881494
+42;CAO_452;3.390245225;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.961109548
+43;CAO_454;3.008745973;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.722116141
+44;CAO_455;3.506596066;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.254477609
+45;CAO_580;3.334015125;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.119074752
+46;CAO_581;3.365994932;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;1.912423971
+47;CAO_582;3.450224444;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;2.116010096
+48;CAO_583;3.405910179;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;2.092042018
+49;CAO_584;3.205060667;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;1.743391626
+50;CAO_585;3.511778222;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;2.503093662
+51;CAO_586;3.259700187;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;2.63602687
+52;CAO_587;3.37214533;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;2.161300293
+53;CAO_588;3.516038925;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;1.591544198
+54;CAO_590;3.095512891;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;2.805643676
+55;CAO_591;3.088577671;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;2.766692273
+56;CAO_592;3.09687377;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.962447545
+57;CAO_593;3.331693845;Shannon_LCMS;2.Upper rariphotic;Hexactinellida;3.146892511
+58;CAO_594;3.14187586;Shannon_LCMS;3.Lower rariphotic;Hexactinellida;1.070507194
