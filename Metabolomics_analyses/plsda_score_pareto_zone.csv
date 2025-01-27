@@ -1,0 +1,61 @@
+;Code;ID_Samples;Depth_m;Photic_zone;Class_host;Order_host;Family_host;Genus_host;Species_host;Comp 1;Comp 2;Comp 3;Comp 4;Comp 5;Comp 6;Comp 7;Comp 8
+108_Conorete_pourtalesi;Cp.1;SUB_108;267;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;8.4984;2.0189;-2.6078;-4.9908;-4.1191;4.0923;3.011;0.72832
+111_Heterotella;Hp.1;SUB_111;305;3.Lower rariphotic;Hexactinellida;Lyssacinosida;Euplectellidae;Heterotella;Heterotella pomponae;9.498;0.29006;-2.0636;-3.656;-1.5354;-7.0509;10.598;-7.3338
+405_Dictyoplax_lecus;Dl.1;CAO_405;282;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Dictyoplax;Dictyoplax lecus;5.1348;5.0045;-2.5909;1.5631;-8.2599;-0.023266;-4.5654;-2.4598
+406_Dictyoplax_lecus;Dl.2;CAO_406;301;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Dictyoplax;Dictyoplax lecus;3.0347;3.2425;1.6011;4.7754;0.028636;1.0225;-9.8991;1.4305
+408_Dictyoplax_lecus;Dl.3;CAO_408;301;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Dictyoplax;Dictyoplax lecus;0.42445;7.606;-0.60842;4.1946;-1.4002;-1.7796;4.5661;-4.0491
+410_Verrucocoeloidea_liberatorii;Vl.1;CAO_410;302;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii;2.9932;3.1924;0.9158;5.3055;-0.099828;1.6442;0.18339;0.27305
+411_Heterotella_pomponaecorbicula;Hp.2;CAO_411;288;3.Lower rariphotic;Hexactinellida;Lyssacinosida;Euplectellidae;Heterotella;Heterotella pomponae;3.4177;6.4206;-4.3128;3.1329;-3.1982;2.8278;5.3098;-2.4009
+412_Heterotella_pomponaecorbicula;Hp.3;CAO_412;288;3.Lower rariphotic;Hexactinellida;Lyssacinosida;Euplectellidae;Heterotella;Heterotella pomponae;3.6103;4.499;-0.035149;1.5405;-3.8409;4.7853;-2.4083;-1.4015
+413_Dictyoplax_lecus;Dl.4;CAO_413;301;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Dictyoplax;Dictyoplax lecus;2.6694;5.712;-1.0862;1.5809;-3.1902;8.7258;1.3839;1.3844
+414_Conorete_pourtalesi;Cp.2;CAO_414;298;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;5.8256;3.2148;0.42604;-4.4034;-3.8234;8.3865;2.5793;-8.1074
+415_Calthropella_Pachataxa_lithistina;Cl.1;CAO_415;300;3.Lower rariphotic;Demospongiae;Tetractinelida;Calthropellidae;Calthropella;Calthropella lithistina;-0.036604;11.639;3.1563;-12.049;-8.0382;-1.4348;4.1009;4.2573
+418_Topsentia;To.1;CAO_418;295;3.Lower rariphotic;Demospongiae;Halichondrida;Halichondriidae;Topsentia;Topsentia ophiraphidite;-2.8546;8.8202;3.4836;3.4551;3.2076;0.71626;-1.8582;4.0007
+419_Svenzea;Sz.1;CAO_419;95;1.Mesophotic;Demospongiae;Scopalinida;Scopalinidae;Svenzea;Svenzea zeai;-10.143;-2.4932;-4.0091;-2.7413;-1.0287;1.866;-7.3302;-4.7773
+420_Neopetrosia_eurystomata;Ne.1;CAO_420;94;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;-14.007;-3.909;6.1081;2.0291;-10.658;-1.8609;-2.6326;-1.8531
+421_Petrosia_sp_branch;Ps1.1;CAO_421;89;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Petrosia;Petrosia sp. 1;-12.242;-2.7669;-4.2102;1.909;9.3921;-0.71929;2.3488;-2.6785
+422_Petrosia_sp;Ps2.1;CAO_422;129;2.Upper rariphotic;Demospongiae;Haplosclerida;Petosiidae;Petrosia;Petrosia sp. 2;-7.5505;2.7819;1.1135;1.5767;3.5752;3.7501;-1.6461;-2.0694
+423_Neopetrosia_eurystomata;Ne.2;CAO_423;107;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;-14.403;-5.5502;9.1633;2.4854;-10.269;-1.7466;1.6596;2.8688
+424_Petrosia_aff._weinbergi;Pw.1;CAO_424;106;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Petrosia;Petrosia aff. weinbergi;-12.014;-4.5223;2.7742;-5.4441;8.4819;-0.57133;-1.3043;-4.732
+425_Svenzea;Sz.2;CAO_425;100;1.Mesophotic;Demospongiae;Scopalinida;Scopalinidae;Svenzea;Svenzea zeai;-10.071;-3.8763;-4.4905;-1.819;4.8846;8.7216;-0.045085;-6.3264
+426_Neopetrosia_ovata;Ne.3;CAO_426;105;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;-14.501;-7.0552;8.9929;3.7521;-3.7227;5.2975;8.7854;0.77422
+427_Biemna_microacanthosigma;Bm.1;CAO_427;258;3.Lower rariphotic;Demospongiae;Biemnida;Biemnidae;Biemna;Biemna microacanthosigma;-3.9352;9.0786;6.871;4.6972;-4.4111;-2.8893;-8.4037;3.9169
+428_Neopetrosia_ovata;Ne.4;CAO_428;105;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;-13.826;-6.3577;9.194;1.4997;-7.9995;0.21879;3.433;-0.84945
+429_Svenzea;Sz.3;CAO_429;95;1.Mesophotic;Demospongiae;Scopalinida;Scopalinidae;Svenzea;Svenzea zeai;-10.662;-1.9339;-5.3103;-1.3228;-2.4744;3.0932;3.9216;-1.6824
+430_Cinachyrella_kuekenthali;Ck.1;CAO_430;100;1.Mesophotic;Demospongiae;Tetractinellida;Tetillidae;Cinachyrella;Cinachyrella kuekenthali;-8.5238;-3.2154;-7.3444;-1.1638;-0.81962;-1.0476;0.34098;2.4631
+431_Calthropella_Pachataxa_lithistina;Cl.2;CAO_431;267;3.Lower rariphotic;Demospongiae;Tetractinelida;Calthropellidae;Calthropella;Calthropella lithistina;-1.2969;10.813;2.6934;-5.9549;-2.1743;-0.98216;4.782;4.7879
+432_Penares;Pm.1;CAO_432;262;3.Lower rariphotic;Demospongiae;Tetractinellida;Geodiidae;Penares;Penares mastoideus;-1.9974;9.007;3.1065;1.118;3.2104;-0.23798;-4.7969;-4.4483
+433_Gastrophanella;Gi.1;CAO_433;151;2.Upper rariphotic;Demospongiae;Tetractinellida;Siphoniididae;Gastrophanella;Gastrophanella implexa;-6.912;1.4604;1.8401;2.9379;4.3731;0.53745;-9.7909;0.92652
+434_Aciculites_higginsii;Ah.1;CAO_434;129;2.Upper rariphotic;Demospongiae;Tetractinellida;Scleritodermidae;Aciculites;Aciculites higginsii;-6.2454;3.851;-1.877;-3.7925;10.834;0.71878;-4.0772;3.5991
+435_Aciculites_higginsii;Ah.2;CAO_435;127;2.Upper rariphotic;Demospongiae;Tetractinellida;Scleritodermidae;Aciculites;Aciculites higginsii;-7.4317;6.1211;-1.4625;-5.2967;8.459;-9.1722;1.0791;-2.953
+436_Aciculites_higginsii;Ah.3;CAO_436;127;2.Upper rariphotic;Demospongiae;Tetractinellida;Scleritodermidae;Aciculites;Aciculites higginsii;-6.2747;5.63;-0.72293;-8.9068;5.7005;-7.1022;-0.58118;5.135
+437_Geodia_curacaocensis;Gc.1;CAO_437;105;1.Mesophotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia aff. curacaocensis;-6.9397;-1.7156;-8.987;-6.5939;-3.81;-7.2604;-3.343;3.5711
+438_GeodiaCaminus;Gs1.1;CAO_438;121;1.Mesophotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia sp. 1;-6.9772;-4.3684;-8.3559;-3.8486;3.074;-0.7654;7.9223;3.0652
+439_Geodia_curacaocensis;Gs2.1;CAO_439;267;3.Lower rariphotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia sp. 2;-1.6128;10.196;-1.2248;3.9191;1.3108;-5.0324;3.2058;2.8367
+441_Geodia_curacaocensis;Gm.1;CAO_441;266;3.Lower rariphotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia cf. megastrella;-3.1706;9.6595;2.8156;1.2142;5.7519;2.1923;3.927;5.5764
+442_Dactylocalyx_pumiceus;Dp.1;CAO_442;268;3.Lower rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;5.2202;0.69237;-2.5298;10.038;1.4775;4.8193;0.61055;3.6816
+443_Dactylocalyx_pumiceus_;Dp.2;CAO_443;262;3.Lower rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;4.5849;-0.65126;-0.043211;12.955;2.1827;-2.7706;4.9522;-0.48047
+444_Dactylocalyx_pumiceus;Dp.3;CAO_444;174;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;0.7604;-3.3041;-5.8358;5.1301;-1.1026;0.91401;-4.4265;-1.1313
+445_Dactylocalyx_pumiceus;Dp.4;CAO_445;174;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;3.2865;-2.6069;-8.9542;-1.0373;-4.0822;2.3959;-1.1277;4.7684
+447_Verrucocoeloidea_liberatorii;Vl.2;CAO_447;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Verrucocoeloidea liberatorii;8.0927;-1.1681;0.95048;-2.3954;2.1261;6.276;1.0934;10.5
+448_Verrucocoeloidea_liberatorii;Vl.3;CAO_448;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii;8.4656;-5.8132;8.7528;-1.3584;1.9799;1.3226;0.44606;3.4172
+449_Verrucocoeloidea_liberatorii;Vl.4;CAO_449;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii;9.5528;-1.7586;-0.099571;1.4363;-2.1141;-10.093;-5.0955;0.51805
+450_Verrucocoeloidea_liberatorii;Vl.5;CAO_450;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii;4.398;1.4857;3.5119;1.6042;0.29854;-3.9082;1.4563;-7.3681
+451_Cyrtaulon_sigsbeei_or_Verrucocoeloidea_liberatorii;Vl.6;CAO_451;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii;9.1097;-5.4819;9.287;-5.5485;2.2093;0.0075133;-3.9495;3.9979
+452_Conorete_pourtalesi;Cp.3;CAO_452;262;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;10.414;-4.6201;5.5899;-6.4882;1.6547;-0.071551;-1.3812;1.7078
+454_Conorete_pourtalesi;Cp.4;CAO_454;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;7.9885;-8.4182;14.51;-1.6443;5.224;-7.6444;3.3476;-1.3856
+455_Conorete_pourtalesi;Cp.5;CAO_455;262;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;6.2351;0.67037;1.1678;-0.11122;-0.36634;2.0942;4.357;3.2828
+580_Dictyoplax_lecus;Dl.5;CAO_580;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Dictyoplax;Dictyoplax lecus;4.8268;-0.1979;1.4514;5.1163;5.2013;10.035;-0.12998;-0.90462
+581_Verrucocoeloidea_liberatorii;Vl.7;CAO_581;176;2.Upper rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii;4.5694;-7.8365;-1.6002;-6.454;3.2738;8.3679;1.4895;4.0479
+582_Verrucocoeloidea_liberatorii;Vl.8;CAO_582;176;2.Upper rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii;6.0153;-7.9447;0.12741;-8.9268;-4.1937;-1.445;-8.5768;-1.4841
+583_Verrucocoeloidea_liberatorii;Vl.9;CAO_583;176;2.Upper rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii;3.058;-7.9559;2.2183;-4.5304;0.87569;2.6315;-3.3097;-3.0106
+584_Dactylocalyx_pumiceus;Dp.5;CAO_584;145;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;5.1113;-10.455;-4.1198;6.3165;4.8422;-7.2173;5.7994;5.7719
+585_Dactylocalyx_pumiceus;Dp.6;CAO_585;145;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;2.1742;-5.8503;-5.9468;7.5971;1.3419;-2.2942;-5.8338;5.0238
+586_Dactylocalyx_pumiceus;Dp.7;CAO_586;145;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;3.1109;-5.8577;-5.6773;5.368;-2.7232;-6.7647;-0.085021;1.0826
+587_Dactylocalyx_pumiceus;Dp.8;CAO_587;132;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;1.0782;-5.3826;-2.9383;5.2415;-2.807;0.89775;0.20961;3.5306
+588_Dactylocalyx_pumiceus;Dp.9;CAO_588;144;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;1.2979;-0.86736;-8.695;2.7785;-6.1454;-6.7135;0.88123;-0.67875
+590_Conorete_pourtalesi;Cp.6;CAO_590;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;6.8227;1.0724;1.3181;-3.0438;0.03604;-0.48456;-0.45055;0.066403
+591_Conorete_pourtalesi;Cp.7;CAO_591;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;5.9339;-0.31024;1.6278;2.9608;4.2024;-3.4591;5.3594;-6.5949
+592_Conorete_pourtalesi;Cp.8;CAO_592;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;6.271;2.1717;0.16724;-0.22616;-0.77944;-6.8284;-3.6611;-10.231
+593_Verrucocoeloidea_liberatorii;Vl.10;CAO_593;194;2.Upper rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii;4.8634;-2.0742;-9.4924;-8.2908;-3.9452;4.9795;-0.41249;-3.1456
+594_Dictyoplax_lecus;Dl.6;CAO_594;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Dictyoplax;Dictyoplax lecus;5.2792;-0.031012;2.2966;2.8106;3.9214;6.0334;-2.018;-8.4553

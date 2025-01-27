@@ -1,0 +1,25 @@
+;Code;ID_Samples;Depth_m;Photic_zone;Class_host;Order_host;Family_host;Genus_host;Species_host;Comp 1;Comp 2;Comp 3;Comp 4;Comp 5;Comp 6;Comp 7;Comp 8
+415_Calthropella_Pachataxa_lithistina;Cl.1;CAO_415;300;3.Lower rariphotic;Demospongiae;Tetractinelida;Calthropellidae;Calthropella;Calthropella lithistina;12.176;2.9765;-14.379;6.0213;-1.905;0.85357;-12.399;-9.9343
+418_Topsentia;To.1;CAO_418;295;3.Lower rariphotic;Demospongiae;Halichondrida;Halichondriidae;Topsentia;Topsentia ophiraphidite;8.2072;7.1288;3.32;-4.9038;0.095937;3.2223;10.697;-5.4936
+419_Svenzea;Sz.1;CAO_419;95;1.Mesophotic;Demospongiae;Scopalinida;Scopalinidae;Svenzea;Svenzea zeai;-5.324;-2.0594;-5.9157;-9.3459;2.2046;-7.9235;-9.0468;-7.4456
+420_Neopetrosia_eurystomata;Ne.1;CAO_420;94;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;-9.9593;6.8108;-3.5465;4.3581;2.2448;1.165;5.1805;3.5873
+421_Petrosia_sp_branch;Ps1.1;CAO_421;89;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Petrosia;Petrosia sp. 1;-4.7351;-9.9981;6.6281;8.5797;-5.034;-2.1458;4.1559;-9.5738
+422_Petrosia_sp;Ps2.1;CAO_422;129;2.Upper rariphotic;Demospongiae;Haplosclerida;Petosiidae;Petrosia;Petrosia sp. 2;0.61013;2.7678;3.1128;-3.4014;-6.0548;-8.5034;-3.9673;-6.2833
+423_Neopetrosia_eurystomata;Ne.2;CAO_423;107;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;-9.1117;7.1489;-8.2381;1.1821;-9.1344;-3.1232;0.39497;5.721
+424_Petrosia_aff._weinbergi;Pw.1;CAO_424;106;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Petrosia;Petrosia aff. weinbergi;-7.6125;-2.3629;6.8811;3.4379;-14.766;10.746;-1.1877;-9.9531
+425_Svenzea;Sz.2;CAO_425;100;1.Mesophotic;Demospongiae;Scopalinida;Scopalinidae;Svenzea;Svenzea zeai;-7.0424;-2.1213;1.7176;1.0379;9.5271;3.8173;2.4077;-2.6733
+426_Neopetrosia_ovata;Ne.3;CAO_426;105;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;-11.517;9.6929;0.6657;-0.90139;-1.3872;4.0304;0.011332;6.9691
+427_Biemna_microacanthosigma;Bm.1;CAO_427;258;3.Lower rariphotic;Demospongiae;Biemnida;Biemnidae;Biemna;Biemna microacanthosigma;5.9276;12.399;3.5156;-2.9876;4.0178;-1.4937;0.99491;-3.3689
+428_Neopetrosia_ovata;Ne.4;CAO_428;105;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;-11.319;8.8185;0.70136;2.2034;1.499;3.2915;-6.9265;-0.80849
+429_Svenzea;Sz.3;CAO_429;95;1.Mesophotic;Demospongiae;Scopalinida;Scopalinidae;Svenzea;Svenzea zeai;-7.1026;-2.0751;3.0858;-3.5725;13.512;2.5075;2.1102;-4.0627
+430_Cinachyrella_kuekenthali;Ck.1;CAO_430;100;1.Mesophotic;Demospongiae;Tetractinellida;Tetillidae;Cinachyrella;Cinachyrella kuekenthali;-3.7535;-7.0016;-4.1181;-7.1637;5.9482;-1.0748;8.4785;-2.7369
+431_Calthropella_Pachataxa_lithistina;Cl.2;CAO_431;267;3.Lower rariphotic;Demospongiae;Tetractinelida;Calthropellidae;Calthropella;Calthropella lithistina;11.81;1.869;-8.2218;2.0467;-2.3169;10.543;9.1772;-0.31423
+432_Penares;Pm.1;CAO_432;262;3.Lower rariphotic;Demospongiae;Tetractinellida;Geodiidae;Penares;Penares mastoideus;9.3841;5.8297;-0.63826;-4.8657;-2.1665;-1.4831;3.9226;5.9042
+433_Gastrophanella;Gi.1;CAO_433;151;2.Upper rariphotic;Demospongiae;Tetractinellida;Siphoniididae;Gastrophanella;Gastrophanella implexa;0.25048;3.5839;1.4397;1.5928;0.7229;-10.801;-4.2013;11.353
+434_Aciculites_higginsii;Ah.1;CAO_434;129;2.Upper rariphotic;Demospongiae;Tetractinellida;Scleritodermidae;Aciculites;Aciculites higginsii;5.1626;-7.0558;-3.3659;1.1729;12.335;12.161;-9.4431;3.1281
+435_Aciculites_higginsii;Ah.2;CAO_435;127;2.Upper rariphotic;Demospongiae;Tetractinellida;Scleritodermidae;Aciculites;Aciculites higginsii;4.0177;-7.7578;10.697;-10.758;-4.8652;6.4399;-7.588;8.3474
+436_Aciculites_higginsii;Ah.3;CAO_436;127;2.Upper rariphotic;Demospongiae;Tetractinellida;Scleritodermidae;Aciculites;Aciculites higginsii;4.5295;-6.8224;1.9473;0.033004;-8.157;4.706;-3.5038;10.647
+437_Geodia_curacaocensis;Gc.1;CAO_437;105;1.Mesophotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia aff. curacaocensis;-0.37397;-12.598;-10.867;-5.3703;-6.709;-6.2774;8.3794;1.607
+438_GeodiaCaminus;Gs1.1;CAO_438;121;1.Mesophotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia sp. 1;-2.8432;-11.847;-1.61;9.5422;4.5583;-7.1944;0.34166;5.7651
+439_Geodia_curacaocensis;Gs2.1;CAO_439;267;3.Lower rariphotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia sp. 2;9.4671;0.60849;11.074;1.1641;2.178;-10.469;-1.5247;-5.8944
+441_Geodia_curacaocensis;Gm.1;CAO_441;266;3.Lower rariphotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia cf. megastrella;9.1526;2.0654;6.1136;10.898;3.6534;-2.9934;3.5363;5.5133
