@@ -1,1 +1,3 @@
 # Rariphotic_sponge_microbiomes
+
+Marine sponges and their microbiome function together as holobionts, playing essential roles in ecosystem dynamics and exhibiting remarkable adaptability across depth gradients. This study utilized a multi-omics approach, integrating microbiome and metabolome analyses, to investigate adaptive strategies in sponge holobionts inhabiting the mesophotic (80-125 m), upper-rariphotic (125-200 m), and lower-rariphotic (200-305 m) zones of Curaçao. We hypothesized that depth-related environmental factors drive distinct adaptation strategies, similar to patterns observed in fish and coral assemblages.
