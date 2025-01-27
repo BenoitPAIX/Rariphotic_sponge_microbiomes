@@ -1,0 +1,65 @@
+;Sample_or_Control;ID_Samples;is.neg;Depth_m;Photic_zone;Class_host;Order_host;Family_host;Genus_host;Species_host;Abbrev_host;Sampling_date;Subdive
+e1100027457;Control;BLK_001;TRUE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+e1100027458;True sample;CAO_413;FALSE;301;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Lefroyella;Lefroyella sp.;Ls.3;22.04.2022;Subdive 1
+e1100027459;True sample;CAO_423;FALSE;107;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;Ne.2;23.04.2022;Subdive 2
+e1100027460;True sample;CAO_431;FALSE;267;3.Lower rariphotic;Demospongiae;Tetractinelida;Calthropellidae;Calthropella;Calthropella lithistina;Cl.2;23.04.2022;Subdive 2
+e1100027461;True sample;CAO_439;FALSE;267;3.Lower rariphotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia sp. 2;Gs2.1;23.04.2022;Subdive 2
+e1100027462;True sample;CAO_449;FALSE;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii ;Vl.3;23.04.2022;Subdive 2
+e1100027463;True sample;CAO_580;FALSE;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Hexactinella;Hexactinella sp.;Hx.2;30.03.2023;Subdive 3
+e1100027464;True sample;CAO_588;FALSE;144;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;Dp.9;30.03.2023;Subdive 3
+e1100027469;Control;BLK_002;TRUE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+e1100027470;True sample;CAO_414;FALSE;298;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;Cp.1;22.04.2022;Subdive 1
+e1100027471;True sample;CAO_424;FALSE;106;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Petrosia;Petrosia aff. weinbergi;Pw.1;23.04.2022;Subdive 2
+e1100027472;True sample;CAO_432;FALSE;262;3.Lower rariphotic;Demospongiae;Tetractinellida;Geodiidae;Penares;Penares mastoideus;Pm.1;23.04.2022;Subdive 2
+e1100027473;True sample;CAO_441;FALSE;266;3.Lower rariphotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia cf. megastrella;Gm.1;23.04.2022;Subdive 2
+e1100027474;True sample;CAO_450;FALSE;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii ;Vl.4;23.04.2022;Subdive 2
+e1100027475;True sample;CAO_581;FALSE;176;2.Upper rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii ;Vl.6;30.03.2023;Subdive 3
+e1100027476;True sample;CAO_590;FALSE;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;Cp.5;30.03.2023;Subdive 3
+e1100027481;True sample;CAO_405;FALSE;282;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Lefroyella;Lefroyella sp.;Ls.1;22.04.2022;Subdive 1
+e1100027482;True sample;CAO_415;FALSE;300;3.Lower rariphotic;Demospongiae;Tetractinelida;Calthropellidae;Calthropella;Calthropella lithistina;Cl.1;22.04.2022;Subdive 1
+e1100027483;True sample;CAO_425;FALSE;100;1.Mesophotic;Demospongiae;Scopalinida;Scopalinidae;Svenzea;Svenzea zeai;Sz.2;23.04.2022;Subdive 2
+e1100027484;True sample;CAO_433;FALSE;151;2.Upper rariphotic;Demospongiae;Tetractinellida;Siphoniididae;Gastrophanella;Gastrophanella implexa;Gi.1;23.04.2022;Subdive 2
+e1100027485;True sample;CAO_442;FALSE;268;3.Lower rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;Dp.1;23.04.2022;Subdive 2
+e1100027486;True sample;CAO_451;FALSE;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii ;Vl.5;23.04.2022;Subdive 2
+e1100027487;True sample;CAO_582;FALSE;176;2.Upper rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii ;Vl.7;30.03.2023;Subdive 3
+e1100027488;True sample;CAO_591;FALSE;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;Cp.6;30.03.2023;Subdive 3
+e1100027493;True sample;CAO_406;FALSE;301;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Hexactinella;Hexactinella sp.;Hx.1;22.04.2022;Subdive 1
+e1100027494;True sample;CAO_418;FALSE;295;3.Lower rariphotic;Demospongiae;Halichondrida;Halichondriidae;Topsentia;Topsentia ophiraphidite;To.1;22.04.2022;Subdive 1
+e1100027495;True sample;CAO_426;FALSE;105;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;Ne.3;23.04.2022;Subdive 2
+e1100027496;True sample;CAO_434;FALSE;129;2.Upper rariphotic;Demospongiae;Tetractinellida;Scleritodermidae;Aciculites;Aciculites higginsii;Ah.1;23.04.2022;Subdive 2
+e1100027497;True sample;CAO_443;FALSE;262;3.Lower rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;Dp.2;23.04.2022;Subdive 2
+e1100027498;True sample;CAO_452;FALSE;262;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;Cp.2;23.04.2022;Subdive 2
+e1100027499;True sample;CAO_583;FALSE;176;2.Upper rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii ;Vl.8;30.03.2023;Subdive 3
+e1100027500;True sample;CAO_592;FALSE;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;Cp.7;30.03.2023;Subdive 3
+e1100027505;True sample;CAO_408;FALSE;301;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Lefroyella;Lefroyella sp.;Ls.2;22.04.2022;Subdive 1
+e1100027506;True sample;CAO_419;FALSE;95;1.Mesophotic;Demospongiae;Scopalinida;Scopalinidae;Svenzea;Svenzea zeai;Sz.1;23.04.2022;Subdive 2
+e1100027507;True sample;CAO_427;FALSE;258;3.Lower rariphotic;Demospongiae;Biemnida;Biemnidae;Biemna;Biemna microacanthosigma;B.m.1;23.04.2022;Subdive 2
+e1100027508;True sample;CAO_435;FALSE;127;2.Upper rariphotic;Demospongiae;Tetractinellida;Scleritodermidae;Aciculites;Aciculites higginsii;Ah.2;23.04.2022;Subdive 2
+e1100027509;True sample;CAO_444;FALSE;174;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;Dp.3;23.04.2022;Subdive 2
+e1100027510;True sample;CAO_454;FALSE;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;Cp.3;23.04.2022;Subdive 2
+e1100027511;True sample;CAO_584;FALSE;145;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;Dp.5;30.03.2023;Subdive 3
+e1100027512;True sample;CAO_593;FALSE;194;2.Upper rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Lefroyella;Lefroyella sp.;Ls.4;30.03.2023;Subdive 3
+e1100027517;True sample;CAO_410;FALSE;302;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Myliusia;Myliusia sp. nov.;Ms.1;22.04.2022;Subdive 1
+e1100027518;True sample;CAO_420;FALSE;94;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;Ne.1;23.04.2022;Subdive 2
+e1100027519;True sample;CAO_428;FALSE;105;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Neopetrosia;Neopetrosia eurystomata;Ne.4;23.04.2022;Subdive 2
+e1100027520;True sample;CAO_436;FALSE;127;2.Upper rariphotic;Demospongiae;Tetractinellida;Scleritodermidae;Aciculites;Aciculites higginsii;Ah.3;23.04.2022;Subdive 2
+e1100027521;True sample;CAO_445;FALSE;174;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;Dp.4;23.04.2022;Subdive 2
+e1100027522;True sample;CAO_455;FALSE;262;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;Cp.4;23.04.2022;Subdive 2
+e1100027523;True sample;CAO_585;FALSE;145;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;Dp.6;30.03.2023;Subdive 3
+e1100027524;True sample;CAO_594;FALSE;238;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Auloplacidae;Hexactinella;Hexactinella sp.;Hx.3;30.03.2023;Subdive 3
+e1100027529;True sample;CAO_411;FALSE;288;3.Lower rariphotic;Hexactinellida;Lyssacinosida;Euplectellidae;Heterotella;Heterotella sp. nov.;Ht.1;22.04.2022;Subdive 1
+e1100027530;True sample;CAO_421;FALSE;89;1.Mesophotic;Demospongiae;Haplosclerida;Petosiidae;Petrosia;Petrosia sp. 1;Ps1.1;23.04.2022;Subdive 2
+e1100027531;True sample;CAO_429;FALSE;95;1.Mesophotic;Demospongiae;Scopalinida;Scopalinidae;Svenzea;Svenzea zeai;Sz.3;23.04.2022;Subdive 2
+e1100027532;True sample;CAO_437;FALSE;105;1.Mesophotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia aff. curacaocensis;Gc.1;23.04.2022;Subdive 2
+e1100027533;True sample;CAO_447;FALSE;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii ;Vl.1;23.04.2022;Subdive 2
+e1100027534;True sample;SUB_108;FALSE;267;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Conorete;Conorete pourtalesi;Cp.8;2018;Subdive 0
+e1100027535;True sample;CAO_586;FALSE;145;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;Dp.7;30.03.2023;Subdive 3
+e1100027541;True sample;CAO_412;FALSE;288;3.Lower rariphotic;Hexactinellida;Lyssacinosida;Euplectellidae;Heterotella;Heterotella sp. nov.;Ht.2;22.04.2022;Subdive 1
+e1100027542;True sample;CAO_422;FALSE;129;2.Upper rariphotic;Demospongiae;Haplosclerida;Petosiidae;Petrosia;Petrosia sp. 2;Ps2.1;23.04.2022;Subdive 2
+e1100027543;True sample;CAO_430;FALSE;100;1.Mesophotic;Demospongiae;Tetractinellida;Tetillidae;Cinachyrella;Cinachyrella kuekenthali;Ck.1;23.04.2022;Subdive 2
+e1100027544;True sample;CAO_438;FALSE;121;1.Mesophotic;Demospongiae;Tetractinellida;Geodiidae;Geodia;Geodia sp. 1;Gs1.1;23.04.2022;Subdive 2
+e1100027545;True sample;CAO_448;FALSE;268;3.Lower rariphotic;Hexactinellida;Sceptrulophora;Euretidae;Verrucocoeloidea;Verrucocoeloidea liberatorii ;Vl.2;23.04.2022;Subdive 2
+e1100027546;True sample;SUB_111;FALSE;305;3.Lower rariphotic;Hexactinellida;Lyssacinosida;Euplectellidae;Heterotella;Heterotella sp. nov.;Ht.3;2018;Subdive 0
+e1100027547;True sample;CAO_587;FALSE;132;2.Upper rariphotic;Hexactinellida;Hexasterophora;Dactylocalycidae;Dactylocalyx;Dactylocalyx pumiceus;Dp.8;30.03.2023;Subdive 3
+e1100027548;Control;NC02;TRUE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+e1100027552;Control;NC01;TRUE;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
