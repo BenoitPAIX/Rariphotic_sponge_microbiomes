@@ -6,7 +6,7 @@ library(ggpubr)
 devtools::install_github("thomasp85/patchwork")
 library(patchwork)
 
-setwd("C:/Users/bpaix/Mon Drive/2021_2024 Postdoc Naturalis/2022 Curacao subdive project/4. Lab notebook/8. Multiomics analyses/alpha_multiomics")
+setwd("your path file here")
 
 
 color_vector_class = c("Demospongiae" = "chartreuse", 
